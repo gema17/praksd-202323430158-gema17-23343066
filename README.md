@@ -1,16 +1,10 @@
 <table border="5" cellspasing="5" cellpadding="6" align="center">
             <tr>
-                <th colspan="2">Kesimpulan</th>
+                <th colspan="2">Kesimpulan Jobsheet</th>
             </tr>
             <tr>
-                <th rowspan="3">Latihan 1.1</th>
-                <td>1. Memiliki banyak spasi tetapi diabaikan.</td>
-            </tr>
-            <tr>
-                <td>2. 'nbsp' untuk membuat spasi Panjang.</td>
-            </tr>
-            <tr>
-                <td>3. ‘align’ utnuk mengatur penempatan teks.</td>
+                <th rowspan="1">Jobsheet 1</th>
+                <td>Jobsheet ini membahas mengenai struktur data dan pengenalannya. Struktur data merupakan cara menyimpan dan mengatur data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Jobsheet ini menjelaskan tipe data, struktur data, dan implementasinya dalam bahasa pemrograman C. Selain itu, jobsheet ini juga memberikan contoh program sederhana yang dapat membantu mahasiswa memahami konsep dasar pemrograman dengan menggunakan struktur data.</td>
             </tr>
             <tr>
                 <th rowspan="4">Latihan 1.2</th>
