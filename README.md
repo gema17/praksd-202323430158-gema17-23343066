@@ -56,10 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gema17/gema17/output/snake.svg" alt="Snake animation" />
-
-###
-
 <table border="5" cellspasing="5" cellpadding="6" align="center">
             <tr>
                 <th colspan="2">Kesimpulan Jobsheet</th>
