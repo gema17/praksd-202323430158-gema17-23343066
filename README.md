@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://awsimages.detik.net.id/community/media/visual/2022/07/19/foto-kucing-lucu-banget-1.jpeg?w=600&q=90"/>
+  <img height="150" src="https://awsimages.detik.net.id/community/media/visual/2022/07/19/foto-kucing-lucu-banget-1.jpeg?w=600&q=90"/>
 </div>
 
 ###
