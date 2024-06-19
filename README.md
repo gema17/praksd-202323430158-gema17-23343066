@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=![Kucing Lucu](https://github.com/gema17/test/blob/main/foto-kucing-lucu-banget.jpeg?raw=true)/>
+  <img src="https://awsimages.detik.net.id/community/media/visual/2022/07/19/foto-kucing-lucu-banget-1.jpeg?w=600&q=90"/>
 </div>
 
 ###
