@@ -1,3 +1,78 @@
+<div align="center">
+  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Finet.detik.com%2Ffotoinet%2Fd-6190261%2Fkumpulan-pose-kucing-yang-bikin-gemes-mana-favoritmu&psig=AOvVaw15DMG4KdiCUzaP8n4GD0Ew&ust=1718887364328000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDIu8XY54YDFQAAAAAdAAAAABAE"  />
+</div>
+
+###
+
+<h1 align="center">Hey 👋 I'm Gema Pratama Mahadi Putera</h1>
+
+###
+
+<h3 align="left">About Me</h3>
+
+###
+
+<p align="left">🔭 I’m currently studying at Universitas Negeri Padang<br>📚 I'm currently learning C, C++, Python, Javascript<br>⚡ I like playing games, especially racing games</p>
+
+###
+
+<h3 align="left">Language And Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+
+<h3 align="left">Contact Me</h3>
+
+###
+
+<div align="left">
+  <a href="https://discord.gg/pNgTkhQD" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/gema.pratama_/?igsh=M3c3ZXU1YmRldGpr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:gema17pm.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="wa.me/6285257101454/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/G">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=G&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://tenor.com/b9e8gb8c2GT.gif"  />
+</div>
+
+###
+
 <table border="5" cellspasing="5" cellpadding="6" align="center">
             <tr>
                 <th colspan="2">Kesimpulan Jobsheet</th>
