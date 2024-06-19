@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Finet.detik.com%2Ffotoinet%2Fd-6190261%2Fkumpulan-pose-kucing-yang-bikin-gemes-mana-favoritmu&psig=AOvVaw15DMG4KdiCUzaP8n4GD0Ew&ust=1718887364328000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDIu8XY54YDFQAAAAAdAAAAABAE"  />
+  ![Kucing Lucu](https://github.com/gema17/test/blob/main/foto-kucing-lucu-banget.jpeg?raw=true)
 </div>
 
 ###
