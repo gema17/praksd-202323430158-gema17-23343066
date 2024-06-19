@@ -59,20 +59,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/G">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=G&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://tenor.com/b9e8gb8c2GT.gif"  />
-</div>
-
-###
-
 <table border="5" cellspasing="5" cellpadding="6" align="center">
             <tr>
                 <th colspan="2">Kesimpulan Jobsheet</th>
